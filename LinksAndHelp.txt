@@ -1,5 +1,15 @@
+-- managing IntellijIDEA projects under VCSs
+https://intellij-support.jetbrains.com/hc/en-us/articles/206544839-How-to-manage-projects-under-Version-Control-Systems
+
+-- gradle info and tutorials
+https://rominirani.com/gradle-tutorial-part-2-java-projects-5aaf99368018#.pm71ldmwy
+
 -- Converting a Spring Boot project to generate a .war file
 https://spring.io/guides/gs/convert-jar-to-war/
+http://nixmash.com/java/deployable-wars-in-spring-boot-intellij-and-gradle/
+http://docs.spring.io/spring-boot/docs/current/reference/html/howto-traditional-deployment.html
+https://mtdevuk.com/2015/07/16/how-to-make-a-spring-boot-jar-into-a-war-to-deploy-on-tomcat/
 
 -- Spring Data REST and JPA
 https://spring.io/guides/gs/accessing-data-rest/
+
