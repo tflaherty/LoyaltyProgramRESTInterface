@@ -1,0 +1,5 @@
+-- Converting a Spring Boot project to generate a .war file
+https://spring.io/guides/gs/convert-jar-to-war/
+
+-- Spring Data REST and JPA
+https://spring.io/guides/gs/accessing-data-rest/
